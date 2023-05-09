@@ -61,7 +61,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
-  --bs-body-bg: #5FBE86;
+  --bs-body-bg: #616060;
 }
 
 *,
@@ -216,7 +216,7 @@ small, .small {
 
 mark, .mark {
   padding: 0.2em;
-  background-color: #5FBE86;
+  background-color: #616060;
 }
 
 sub,
@@ -283,7 +283,7 @@ a > code {
 kbd {
   padding: 0.2rem 0.4rem;
   font-size: 0.875em;
-  color: #5FBE86;
+  color: #616060;
   background-color: #212529;
   border-radius: 0.2rem;
 }
@@ -606,7 +606,7 @@ progress {
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #5FBE86;
+  background-color: #616060;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
@@ -2042,7 +2042,7 @@ progress {
   --bs-table-striped-bg: #d7d8da;
   --bs-table-striped-color: #000;
   --bs-table-active-bg: #cbccce;
-  --bs-table-active-color: #5FBE86;
+  --bs-table-active-color: #616060;
   --bs-table-hover-bg: #d1d2d4;
   --bs-table-hover-color: #fff;
   color: #000;
@@ -2414,7 +2414,7 @@ textarea.form-control-lg {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  background-color: #5FBE86;
+  background-color: #616060;
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
   background-repeat: no-repeat;
   background-position: right 0.75rem center;
